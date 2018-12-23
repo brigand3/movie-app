@@ -1,0 +1,9 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Movie app with React",
+  "main": "index.js",
+  "repository": "https://github.com/brigand3/movie-app",
+  "author": "Hyunjin Yun <sayconclusion@gmail.com>",
+  "license": "MIT"
+}
