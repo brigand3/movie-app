@@ -21,5 +21,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/brigand3/movie-app",
+  "author": "Hyunjin Yun <sayconclusion@gmail.com>",
+  "license": "MIT"
 }
